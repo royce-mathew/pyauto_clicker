@@ -36,7 +36,7 @@ when random interval is on, it will choose between a number from 1 to this inter
 
 When it is off, this will just be the time interval between each click
 """
-interval_delay = 0.3
+interval_delay = 20
 
 # !!!! DO NOT MODIFY ANYTHING HEREAFTER !!!
 
